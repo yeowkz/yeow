@@ -7,7 +7,7 @@ package themepark;
 
 /**
  *
- * @author User
+ * @author yeow
  */
 public class Customer {
 
