@@ -1,10 +1,10 @@
 # yeow
-Beginner starting kit
+<b>Beginner starting kit</b>
 
 - it is just a study project for personal use
 - ticketing system written by java
 - it is incomplete, if u can help imform us
-- consists of :
+- <i> consists of : </i>
 
 - i. Creating Multiple Java Classes (yes)
 - ii. Applying Control & Repetition statement (yes)
