@@ -7,7 +7,7 @@ package themepark;
 
 /**
  * GROUP 8 - PROJECT (THEME PARK TICKETING SYSTEM)
- * NAME : YEOW KAI ZE 
+ * NAME : YEOW
  */
 public class Adult extends Ticket {
 
